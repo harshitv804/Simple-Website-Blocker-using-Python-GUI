@@ -7,7 +7,7 @@ This python program was directly converted to an `.exe` file, hence this can't b
 Feel free to download and use it.
 
 ## How it works?
-This python console app blocks websites by adding the user input (websites to be blocked) into the `HOSTS` file in your local machine. A `HOST` file is basically used by a operating system to map a connection between an IP address and domain names before going to domain name servers.
+This python console app blocks websites by adding the user input (websites to be blocked) into the `HOST` file in your local machine. A `HOST` file is basically used by a operating system to map a connection between an IP address and domain names before going to domain name servers.
 
 
 ## Note: 
