@@ -2,7 +2,7 @@
 
 ![Screenshot_3](https://user-images.githubusercontent.com/100853494/169704759-ea7a9da0-61ac-44ce-9bc1-2b1339954e27.png)
 
-This is a mini project for my college. 
+This is a fun mini project for my college. 
 This python program was directly converted to an `.exe` file, hence this can't be used for further development.
 Feel free to download and use it.
 
