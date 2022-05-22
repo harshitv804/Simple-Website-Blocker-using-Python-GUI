@@ -15,7 +15,7 @@ Feel free to download and use it.
 * Windows Operating System
 
 ## How to Use:
-1. [Download](https://github.com/harshitv-io/Simple-Website-Blocker-using-Python-GUI/archive/refs/heads/main.zip) the whole code and make sure that all files are together.
+1. [Download](https://github.com/harshitv-io/Simple-Website-Blocker-using-Python-GUI/archive/refs/heads/main.zip) and extract the code into a folder.
 2. Run the `main.exe` file.
 3. Add the websites to blacklisted in this syntax: `www.yourdomainname` (eg. `www.facebook.com`)
 4. Now block and unblock websites using the buttons. (Note: Before closing, first `Unblock` and then close the application.)
